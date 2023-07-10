@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Somil",
+  "author": "Nishant",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
